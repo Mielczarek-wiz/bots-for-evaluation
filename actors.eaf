@@ -1,0 +1,4 @@
+Lynx			ms		1	0	0	skeleton.bow.
+rambo           sc:mielczarek_rambo.lua 3 40 60 skeleton.bow.
+sniper           sc:mielczarek_sniper.lua 3 50 40 skeleton.bow.
+guardian           sc:mielczarek_guardian.lua 3 100 30 skeleton.bow.
